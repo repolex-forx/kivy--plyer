@@ -8,7 +8,7 @@
     {
       "@id": "https://repolex.ai/r/kivy/plyer/commit/4853b3a92a786237af966b86d07fa8242eee9aec",
       "git:hexsha": "4853b3a92a786237af966b86d07fa8242eee9aec",
-      "repolex:parseStatus": "metadata_complete"
+      "repolex:parseStatus": "ast_complete"
     },
     {
       "@id": "https://repolex.ai/r/kivy/plyer/commit/4361e04cefce215a71af6c63d85d3fcecd80ca76",
